@@ -1,0 +1,5 @@
+{
+  "name": "Evidence Miner v5.0 Pro",
+  "description": "An advanced medical literature analysis platform that integrates PubMed, PMC, and Gemini AI to synthesize clinical evidence, extract MeSH terms, and generate comprehensive research reviews.",
+  "requestFramePermissions": []
+}
